@@ -273,10 +273,10 @@
 <footer>
 	<p class="lh-15 font-12 mb-0 Gray59">@Copyright © 25/02/2021 J.Ikbal Ldt. All rights reserved.</p>
 	<ul w><h3>Connect Us</h3>
-		<li><a href="#"><i class="fab fa-facebook"></i></a></li>
-		<li><a href="#"><i class="fab fa-twitter-square"></i></a></li>
-		<li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-		<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+		<li><a href="https://www.facebook.com/jajang.iqbal.1"><i class="fab fa-facebook"></i></a></li>
+		<li><a href="https://twitter.com/login?lang=id"><i class="fab fa-twitter-square"></i></a></li>
+		<li><a href="https://id.pinterest.com/"><i class="fab fa-pinterest"></i></a></li>
+		<li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
 	</ul>
 
 
